@@ -1,4 +1,4 @@
-import React,{useRef,useState,useEffect} from 'react';
+import React,{useState,useEffect} from 'react';
 import { useHistory } from 'react-router-dom';
 import { ChatEngine} from 'react-chat-engine';
 import { auth } from '../firebase';
